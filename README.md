@@ -10,27 +10,3 @@ http://www.strava.com/oauth/authorize?client_id=[YOUR_CLIENT_ID]&response_type=c
 https://www.strava.com/oauth/token?client_id=[YOUR_CLIENT_ID]&client_secret=[YOUR_CLIENT_SECRET]&code=[AUTHORIZATION_CODE_FROM_STEP_1]&grant_type=authorization_code
 
 3. Copy your access token and refresh token from the response from Step 2. Need access token for requests, need refresh token to get a new access token when it expires.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-My Info:
-
-client_id: 47577
-client_secret: 0c923040d7b751bb7b67b1089b992a4092adbe2d
-authorization_code: 757c84a521b3ae514f13de8de92d398736db2b16
-
-access_token: 1b9c24e9d284d69a88dc3914a5a1fd2032684033
-refresh_token: 2d39cf815c2f0d8ac7698eefde29b85f2d015a16
-# contact-tracer
